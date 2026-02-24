@@ -135,6 +135,3 @@ The classifier uses a classic **TF-IDF + linear model** pipeline:
 6. **Select** the model with the higher test accuracy and serialize all artifacts to disk.
 7. **Predict** — at runtime, new text passes through the same preprocessing and vectorization before inference.
 
-## License
-
-This project is provided for educational purposes as part of an AI semester project. Feel free to use and modify it for learning machine learning and NLP concepts.
